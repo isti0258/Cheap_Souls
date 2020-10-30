@@ -22,3 +22,9 @@ UE4 Build script:
 	Example:
 		build-ue4-game.bat "D:\cheapsouls\Cheap_Souls\Cheapsouls\Cheapsouls.uproject" "win64" "Development" "git@github.com:EpicGames/UnrealEngine.git" "4.25" "D:\unreal_engine\UE_4.25" "D:\unreal_engine\archi"
 
+
+
+UE4 Test script:
+		
+	Usage:
+		test_content_exists.bat "<full path to uproject directory>"
