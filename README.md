@@ -28,3 +28,6 @@ UE4 Test script:
 		
 	Usage:
 		test_content_exists.bat "<full path to uproject directory>"
+		
+		
+Jenkins CI Automation, scripts in jenkins-scripts directory
